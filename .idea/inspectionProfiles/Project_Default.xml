@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="user_operation.serializers.ToDoItem" />
+          <option value="users.views.SessionAuthentication" />
+          <option value="users.views.BasicAuthentication" />
+          <option value="user_operation.views.UserLeavingMessageViewSet" />
+          <option value="trade.views.ShoppingCartSerailizer" />
+          <option value="goods.views.Response" />
+          <option value="goods.views.IndexGoodsCategorySerializer" />
+          <option value="goods.views.CacheResponseMixin" />
+          <option value="social_core.actions.jwt_payload_handler" />
+          <option value="social_core.actions.jwt_encode_handler" />
+          <option value="Sina.spiders.sina_guide.RedisSpiderspider" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
